@@ -1,3 +1,5 @@
+![codewars](https://www.codewars.com/users/kenesparta/badges/small)
+
 - 👋 Hi, I’m Ken
 - 👀 I’m interested in APIs design, micro-services, cloud computing and IoT.
 - 🌱 I’m currently learning Rustlang 🦀.
